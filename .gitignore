@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+dist/
+build/
+*.spec
+
+# 打包产物
+*.rar
+*.zip
+
+# 配置文件（含密码）
+config.json
+
+# PyInstaller
+*.manifest
+*.exe
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# 保存的网页文件（仅供参考，不上传）
+中国地质大学_files/
+中国地质大学.html
+中国地质大学未登录_files/
+中国地质大学未登录.html
